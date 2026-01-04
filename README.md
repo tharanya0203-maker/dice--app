@@ -1,1 +1,1 @@
-# dice--app
+# dice-app
